@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-openai          # or langchain-anthropic
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+twilio
+python-dotenv
+pandas                    # for CSV handling
