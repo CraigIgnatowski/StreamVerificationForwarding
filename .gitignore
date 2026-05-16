@@ -1,0 +1,27 @@
+# Secrets and credentials
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Logs
+logs/*.log
+
+# Test data (may contain personal info)
+samples/
+
+# IDE
+.vscode/
+.idea/
